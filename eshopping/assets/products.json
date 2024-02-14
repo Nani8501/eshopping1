@@ -1,0 +1,83 @@
+[
+  {
+      "id": 1,
+      "name": "Dell Inspiron 15",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/silver-plastic/notebook-inspiron-15-3530-nt-plastic-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full",
+      "weight": "2.3 kg",
+      "price": 45999.00,
+      "quantity": 0
+  },
+  {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6528/6528956_sd.jpg;maxHeight=200;maxWidth=100", 
+      "weight": "0.17 kg",
+      "price": 69999.00,
+      "quantity": 0
+  },
+  {
+      "id": 3,
+      "name": "Fitbit Charge 5",
+      "image": "https://clearbuy-cloud.nyc3.digitaloceanspaces.com/media/4305/Fitbit-Charge-5.jpg",
+      "weight": "0.03 kg",
+      "price": 12499.00,
+      "quantity": 0
+  },
+  {
+      "id": 4,
+      "name": "North Face Borealis Backpack",
+      "image": "https://media.cmsmax.com/glqgv08palzxggommrttp/locally-products/68-931812-17257452-image-1948423.jpg",
+      "weight": "0.95 kg",
+      "price": 6999.00,
+      "quantity": 0
+  },
+  {
+      "id": 5,
+      "name": "Apple Watch Series 7",
+      "image": "https://m.media-amazon.com/images/I/31VL6CgZwzL.jpg",
+      "weight": "0.047 kg",
+      "price": 29999.00,
+      "quantity": 0
+  },
+  {
+      "id": 6,
+      "name": "Canon EOS Rebel T7",
+      "image": "https://camerarace.com/img/745442460d6b69f8a920247ed2b393925c7474d7.jpg",
+      "weight": "0.48 kg",
+      "price": 32999.00,
+      "quantity": 0
+  },
+  {
+      "id": 7,
+      "name": "Sony WH-1000XM4",
+      "image": "https://i5.walmartimages.com/asr/0dfeda7b-df98-488a-a190-67b54d2fb40d.2bc50af0f21a464edd51076af3c85e92.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "weight": "0.25 kg",
+      "price": 24999.00,
+      "quantity": 0
+  },
+  
+  {
+      "id": 8,
+      "name": "Nutribullet Pro",
+      "image": "https://nbmedia.imgix.net/nb-pro-1000-hero-1500-x-1201-hero.jpg?auto=compress,format&ixlib=php-3.3.0&h=900",
+      "weight": "2.3 kg",
+      "price": 7999.00,
+      "quantity": 0
+  },
+  {
+      "id": 9,
+      "name": "Sony PlayStation 5",
+      "image": "https://media.gamestop.com/i/gamestop/11108140?$pdp$",
+      "weight": "4.5 kg",
+      "price": 49999.00,
+      "quantity": 0
+  },
+  {
+      "id": 10,
+      "name": "Apple AirPods Pro",
+      "image": "https://www.thestreet.com/.image/c_limit,cs_srgb,fl_progressive,q_auto:good,w_700/MjAzMzQ3OTUxNTE3NDQzMjU0/apple-airpods-pro-second-generation-with-usb-c.jpg",
+      "weight": "0.045 kg",
+      "price": 17999.00,
+      "quantity": 0
+  }
+]
